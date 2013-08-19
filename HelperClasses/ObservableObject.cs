@@ -5,7 +5,7 @@ using System.Text;
 using System.ComponentModel;
 using System.Diagnostics;
 
-namespace WPFReader
+namespace LogReader
 {
     public abstract class ObservableObject : INotifyPropertyChanged
     {

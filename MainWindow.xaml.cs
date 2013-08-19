@@ -30,5 +30,10 @@ namespace LogReader
             TextBox tb = sender as TextBox;
             tb.ScrollToEnd();
         }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
